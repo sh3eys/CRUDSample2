@@ -10,3 +10,4 @@ https://takake-blog.com/wsl2-ubuntu2004-mysql/
 - Additional
   - Add login user with grant
   - Add Boad 
+  - Add thread body in name-of-subject
